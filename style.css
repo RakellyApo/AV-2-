@@ -26,3 +26,7 @@ body{
     color: var(--branco-principal);
     display: block;
 }
+,botão__secundario{
+    background-color: transparent;
+    border:  2xp solid var(--branco-principal);
+}
