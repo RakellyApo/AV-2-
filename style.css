@@ -28,7 +28,7 @@ body{
     text-decoration: none;
     margin-bottom: 1em;
 }
-,botão__secundario{
+.botão__secundario{
     background-color: transparent;
     border:  2xp solid var(--branco-principal);
 }
