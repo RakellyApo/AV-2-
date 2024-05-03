@@ -30,3 +30,6 @@ body{
     background-color: transparent;
     border:  2xp solid var(--branco-principal);
 }
+.conteiner__imagem{
+    margin:  1 em 0 2em 0;
+}
